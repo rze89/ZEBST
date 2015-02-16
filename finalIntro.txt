@@ -1,0 +1,5 @@
+Hello and welcome to my BST project.
+It involves the use of many things that
+I have used recently including:
+BST, ADT, itemType, linked lists, I/O
+operations, recursion, and much more.
